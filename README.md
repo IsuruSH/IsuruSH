@@ -67,4 +67,28 @@
 
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div class="results" id="results"></div>
+<button onclick="showResult()">Show Result</button>
+    
+    <script>
+        function showResult() {
+            const stnum = document.getElementById('stnum').value;
+            const rlevel = document.getElementById('rlevel').value;
+            const url = `https://res-proxy.onrender.com/results?stnum=12367&rlevel=1`;
+            fetch(url)
+                .then(response => response.text())
+                
+                .then(data => {
+                    document.getElementById('results').innerHTML = data;
+                })
+                
+                .catch(error => {
+                    document.getElementById('results').innerHTML = `<p style="color:red;">Error fetching results: ${error}</p>`;
+                });
+                
+        }
+    </script>
+
 <br/>
