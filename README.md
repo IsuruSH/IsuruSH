@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/IsuruSH/IsuruSH/issues)**
 
- 👨🏿 You can view and fetch results [here](https://your-username.github.io).
+ 👨🏿 You can view and fetch results [here](https://IsuruSH.github.io).
 
  ⚡ Fun fact **The first website ever created is still online, and it was built using HTML by Tim Berners-Lee in 1991.**
 
