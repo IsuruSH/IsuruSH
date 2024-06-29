@@ -14,9 +14,11 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS, AI, ML**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/IsuruSH/IsuruSH/issues)**
+ 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/IsuruSH/IsuruSH/issues)**
 
-⚡ Fun fact **The first website ever created is still online, and it was built using HTML by Tim Berners-Lee in 1991.**
+ 👨🏿 You can view and fetch results [here](https://your-username.github.io).
+
+ ⚡ Fun fact **The first website ever created is still online, and it was built using HTML by Tim Berners-Lee in 1991.**
 
  </div>
  
@@ -67,28 +69,6 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div class="results" id="results"></div>
-<button onclick="showResult()">Show Result</button>
-    
-    <script>
-        function showResult() {
-            const stnum = document.getElementById('stnum').value;
-            const rlevel = document.getElementById('rlevel').value;
-            const url = `https://res-proxy.onrender.com/results?stnum=12367&rlevel=1`;
-            fetch(url)
-                .then(response => response.text())
-                
-                .then(data => {
-                    document.getElementById('results').innerHTML = data;
-                })
-                
-                .catch(error => {
-                    document.getElementById('results').innerHTML = `<p style="color:red;">Error fetching results: ${error}</p>`;
-                });
-                
-        }
-    </script>
 
 <br/>
