@@ -62,6 +62,7 @@
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IsuruSH&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
   
   <br/>
+  <br/>
   <img src="https://streak-stats.demolab.com?user=IsuruSH&theme=meta-dark" alt="GitHub Streak" />
 </div>
 
