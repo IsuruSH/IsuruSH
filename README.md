@@ -60,6 +60,8 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IsuruSH&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-contributor-stats.vercel.app/api?username=HwangTaehyun" alt="streak stats"/>
+ )
   
   <br/>
   <br/>
