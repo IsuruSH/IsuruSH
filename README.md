@@ -61,12 +61,11 @@
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=IsuruSH&show_icons=true&theme=react&border_radius=10" alt="streak stats"/>
   
-  
+  <img width=390 src="https://github-contributor-stats.vercel.app/api?username=IsuruSH&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="streak stats"/>
   <br/>
   <br/>
   <img src="https://streak-stats.demolab.com?user=IsuruSH&theme=meta-dark" alt="GitHub Streak" />
 </div>
-![](https://github-contributor-stats.vercel.app/api?username=Ahinsa2001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 <br/><br/>
